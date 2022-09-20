@@ -1,22 +1,25 @@
+# README
 
-For Clayton:
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-rails db
+Things you may want to cover:
 
-drop_table Users;
+* Ruby version
 
-table \dt (Running this command you should no longer be able to see the users table)
+* System dependencies
 
-exit out of the db editor ( i think the command was \q but typing exit or quit should tell you)
+* Configuration
 
-rails db:migrate
+* Database creation
 
-commands to run to access site:
+* Database initialization
 
-bundle install
+* How to run the test suite
 
-rails db:create
+* Services (job queues, cache servers, search engines, etc.)
 
-rails db:migrate
+* Deployment instructions
 
-rails db:seed
+* ...
+# AggieAmbassadorsApp
